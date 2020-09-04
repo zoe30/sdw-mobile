@@ -9,7 +9,7 @@
     "express": "^4.16.2",
     "file-loader": "^0.10.0",
     "images": "^3.0.1",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "sass-loader": "^4.1.1",
     "style-loader": "^0.13.1",
     "url-loader": "^0.5.7",
